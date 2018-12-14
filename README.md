@@ -17,5 +17,5 @@ The second file is the original folder that contains the original papers in .pdf
 
 `pip install .`
 
-Python3 final_v0.py
+`Run it: Python3 final_v0.py`
 
