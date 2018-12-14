@@ -1,0 +1,14 @@
+SciPy
+Cython
+pathlib
+pandas
+fuzzywuzzy
+sklearn
+numpy
+prettytable
+nltk
+progressbar
+typing
+
+
+
